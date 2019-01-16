@@ -17,3 +17,4 @@ function destructivelyAddElementToEndOfArray (e, f) {
   e.push(f);
   return e;
 }
+
